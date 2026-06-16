@@ -4,6 +4,12 @@
 <h3>🎓 Computer Science Student | UFCG</h3>
 
 <h4>Main interests: Backend 💻 | AI 🤖 | Data Science 📊 | Databases 🗄️</h4>
+
+<h3>Languages & Tools:</h3>
+<div>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</div>
 <!--
 **ernandeseliezer/ernandeseliezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
