@@ -3,7 +3,7 @@
 
 <h3>🎓 Computer Science Student | UFCG</h3>
 
-<h3>Main interests</h3>
+<h3>Main interests:</h3>
 <h4>Backend 💻 | AI 🤖 | Data Science 📊 | Databases 🗄️</h4>
 
 <h3>Languages & Tools:</h3>
