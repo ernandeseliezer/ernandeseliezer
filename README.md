@@ -1,10 +1,9 @@
 <h1 align="center">Ernandes Eliézer</h1>
-<h1 align="center">Hey everyone! 👾</h1>
+<h2 align="center">Hey everyone! 👾</h2>
 
-<p align="center">
-  <i>🎓 Computer Science Student | UFCG</i><br>
-  <i>My main interests are: Backend 💻 | AI 🤖 | Data Science 📊 | Databases 🗄️</i>
-</p>
+<h3 align="center">🎓 Computer Science Student | UFCG</h3>
+
+<h4>My main interests are: Backend 💻 | AI 🤖 | Data Science 📊 | Databases 🗄️</h4>
 <!--
 **ernandeseliezer/ernandeseliezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
