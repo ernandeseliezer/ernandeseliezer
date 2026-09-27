@@ -1,16 +1,20 @@
-<h1 align="center">Ernandes Eliézer</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%7C+UFCG;Software+Engineer+in+the+making;Interested+in+AI+%7C+Deep+Learning+%7C+Computer+Vision" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=140&section=header&text=ERNANDES%20ELI%C3%89ZER&fontSize=36&fontColor=00FF00&fontAlignY=45&animation=fadeIn&desc=%3E%20SYSTEM%20ONLINE_&descAlignY=70&descSize=16" alt="header" />
 </p>
 
 <p align="center">
-  <code>👾 Hey everyone!</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&duration=3200&pause=1200&color=00FF00&center=true&vCenter=true&width=820&height=60&lines=Computer+Science+Student+%40+UFCG;Software+Engineer+in+the+making;Interested+in+AI+%7C+Deep+Learning+%7C+Computer+Vision" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <code>👾 Hey everyone! [ACCESS GRANTED]</code>
+</p>
 
-<h3>🎓 About me</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+</p>
+
+<h3>🎓 <code>root@ernandes:~$ cat about.md</code></h3>
 
 <p>
   I'm a <b>Computer Science student at UFCG</b> and a 
@@ -18,14 +22,14 @@
 </p>
 
 <p>
-  Interested in building software, espescially around
+  Interested in building software, especially around
   <b>Backend Development</b>, <b>Artificial Intelligence</b>,
   <b>Deep Learning</b> and <b>Computer Vision</b>.
 </p>
 
 ---
 
-<h3>🧠 Interests</h3>
+<h3>🧠 <code>root@ernandes:~$ ls interests/</code></h3>
 
 <p>
   <code>Backend Development</code>
@@ -38,7 +42,7 @@
 
 ---
 
-<h3>💻 Languages & Technologies</h3>
+<h3>💻 <code>root@ernandes:~$ ./stack.sh</code></h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,git,github,postgres,neo4j,flask" />
@@ -60,7 +64,7 @@
 
 ---
 
-<h3>🌱 Currently learning</h3>
+<h3>🌱 <code>root@ernandes:~$ tail -f learning.log</code></h3>
 
 <p>
   <code>Spring Boot</code>
@@ -70,7 +74,7 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+<h3>📊 <code>root@ernandes:~$ ./stats --render</code></h3>
 
 <p align="center">
   <img
@@ -91,12 +95,16 @@
 
 ---
 
-<h3>📫 Contact</h3>
+<h3>📫 <code>root@ernandes:~$ ping contact</code></h3>
 
 <p>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LINKEDIN-00FF00?style=for-the-badge&logo=linkedin&logoColor=000000" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 </p>
 
 <p align="center">
