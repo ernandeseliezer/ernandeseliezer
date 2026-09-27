@@ -1,7 +1,5 @@
-<h1 align="center">ERNANDES ELIÉZER</h1>
-
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Digital_rain_animation_medium_letters_clear.gif" width="700" alt="Matrix digital rain" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,35:0A1F3D,70:1B3B1B,100:0D0D0D&height=140&section=header&text=ERNANDES%20ELI%C3%89ZER&fontSize=36&fontColor=00FF00&fontAlignY=45&animation=fadeIn&desc=%3E%20SYSTEM%20ONLINE_&descAlignY=70&descSize=16" alt="header" />
 </p>
 
 <p align="center">
