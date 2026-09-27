@@ -22,7 +22,7 @@
 <p>
   Interested in building software, especially around
   <b>Backend Development</b>, <b>Artificial Intelligence</b>,
-  <b>Deep Learning</b> and <b>Computer Vision</b>.
+  <b>Machine Learning</b> and <b>Computer Vision</b>.
 </p>
 
 ---
@@ -32,7 +32,7 @@
 <p>
   <code>Backend Development</code>
   <code>Artificial Intelligence</code>
-  <code>Deep Learning</code>
+  <code>Machine Learning</code>
   <code>Computer Vision</code>
   <code>Databases</code>
   <code>Software Engineering</code>
@@ -66,7 +66,7 @@
 
 <p>
   <code>Spring Boot</code>
-  <code>Deep Learning</code>
+  <code>Machine Learning</code>
   <code>Computer Vision</code>
 </p>
 
