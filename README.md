@@ -1,5 +1,7 @@
+<h1 align="center">ERNANDES ELIÉZER</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=140&section=header&text=ERNANDES%20ELI%C3%89ZER&fontSize=36&fontColor=00FF00&fontAlignY=45&animation=fadeIn&desc=%3E%20SYSTEM%20ONLINE_&descAlignY=70&descSize=16" alt="header" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Digital_rain_animation_medium_letters_clear.gif" width="700" alt="Matrix digital rain" />
 </p>
 
 <p align="center">
@@ -10,9 +12,7 @@
   <code>👾 Hey everyone! [ACCESS GRANTED]</code>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-</p>
+---
 
 <h3>🎓 <code>root@ernandes:~$ cat about.md</code></h3>
 
@@ -97,14 +97,10 @@
 
 <h3>📫 <code>root@ernandes:~$ ping contact</code></h3>
 
-<p>
-  <a href="https://www.linkedin.com/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ernandes-eliézer-pereira-9a01a929b">
     <img src="https://img.shields.io/badge/LINKEDIN-00FF00?style=for-the-badge&logo=linkedin&logoColor=000000" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 </p>
 
 <p align="center">
