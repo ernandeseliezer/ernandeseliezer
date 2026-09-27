@@ -18,7 +18,7 @@
 </p>
 
 <p>
-  I'm currently interested in building software, especially around
+  Interested in building software, espescially around
   <b>Backend Development</b>, <b>Artificial Intelligence</b>,
   <b>Deep Learning</b> and <b>Computer Vision</b>.
 </p>
